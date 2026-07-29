@@ -1,23 +1,7 @@
 CREATE DATABASE customer_sales_insights;
 USE customer_sales_insights;
 
--- Table is imported from Python/CSV
-/*
-CREATE TABLE sales_analysis_dataset (
-    InvoiceNo VARCHAR(20),
-    StockCode VARCHAR(20),
-    Description TEXT,
-    Quantity INT,
-    InvoiceDate TIMESTAMP,
-    UnitPrice FLOAT,
-    CustomerID FLOAT,
-    Country VARCHAR(100),
-    TotalPrice FLOAT,
-    InvoiceMonth INT,
-    InvoiceYear INT,
-    InvoiceDay VARCHAR(20)
-);
-*/
+
 
 -- ============================================
 -- Data Preview
